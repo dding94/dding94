@@ -8,8 +8,10 @@
    - #### 🌱 [1월13일 ~ 1월17일 수강완료](https://github.com/dding94/Spring-log/tree/main/HTTP_WEB_Basic)
 - ### 3. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 (인프런)
    - #### 🌱 [1월17일 ~ 2월3일 수강완료](https://github.com/dding94/Spring-log/tree/main/3.Spring_MVC1)
-- ### 4. 스프링 부트와 JPA 활용 1 - 웹 애플리케이션 개발 (인프런)
-  - #### 🌱 [2월3일 ~ Learning](https://github.com/dding94/Spring-log/tree/main/4.Spring_Boot&JPA1)
+- ### 4. 실전! 스프링 부트와 JPA 활용 1 - 웹 애플리케이션 개발 (인프런)
+  - #### 🌱 [2월3일 ~ 2월9일 수강완료](https://github.com/dding94/Spring-log/tree/main/4.Spring_Boot&JPA1)
+- ### 5. 자바 ORM 표준 JPA 프로그래밍 - 기본편 (인프런)
+  - #### 🌱 [2월9일 ~ Learning](https://github.com/dding94/Spring-log/tree/main/4.Spring_Boot&JPA1/5.Java_ORM_JPA)
 
 - # BookList
   - ### 이것이 취업을 위한 코딩테스트다 (나동빈)
