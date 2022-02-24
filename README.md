@@ -11,7 +11,11 @@
 - ### 4. 실전! 스프링 부트와 JPA 활용 1 - 웹 애플리케이션 개발 (인프런)
   - #### 🌱 [2월3일 ~ 2월9일 수강완료](https://github.com/dding94/Spring-log/tree/main/4.Spring_Boot&JPA1)
 - ### 5. 자바 ORM 표준 JPA 프로그래밍 - 기본편 (인프런)
-  - #### 🌱 [2월9일 ~ Learning](https://github.com/dding94/Spring-log/tree/main/5.Java_ORM_JPA)
+  - #### 🌱 [2월9일 ~ 2월23일 수강완료](https://github.com/dding94/Spring-log/tree/main/5.Java_ORM_JPA)
+- ### 6. 갖고노는 MySQL 데이터베이스 by 얄코
+  - #### 🌱 [2월24일 ~ Learning]
+- ### 7. 초보를 위한 도커 안내서
+  - #### 🌱 [2월25일 ~ Learning]
 
 - # BookList
   - ### 이것이 취업을 위한 코딩테스트다 (나동빈)
