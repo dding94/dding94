@@ -14,11 +14,13 @@
   - #### 🌱 [2월9일 ~ 2월23일 수강완료](https://github.com/dding94/Spring-log/tree/main/5.Java_ORM_JPA)
 - ### 6. 갖고노는 MySQL 데이터베이스 by 얄코
   - #### 🌱 [2월24일 ~ Learning]
-- ### 7. 초보를 위한 도커 안내서
+- ### 7. 실전! 스프링 부트와 JPA 활용 1 - 웹 애플리케이션 개발 (인프런) 복습!!
+  - #### 🌱 [2월25일 ~ Learning]
+- ### 8. 초보를 위한 도커 안내서
   - #### 🌱 [2월25일 ~ Learning]
 
 - # BookList
   - ### 이것이 취업을 위한 코딩테스트다 (나동빈)
-    - #### 스터디 진행中 :[1월22일 ~ reading]
+    - #### 스터디 진행中 : [1월22일 ~ reading]
   - ### JAVA의 정석 (남궁 성)
     - #### 블로그에 정리中 : [2월4일 ~ reading](https://dding9code.tistory.com/)
