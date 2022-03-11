@@ -18,7 +18,8 @@
   - #### 🌱 [2월25일 ~ 3월8일 복습완료](https://github.com/dding94/Spring-log/tree/main/6.Spring_Boot%26JPA_review)
 - ### 8. 초보를 위한 도커 안내서
   - #### 🌱 [2월25일 ~ Learning](https://github.com/dding94/Docker-log)
-
+- ### 9. 실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화
+  - #### 🌱 [3월10일 ~ Learning](https://github.com/dding94/Spring-log/tree/main/7.Spring_Boot%26JP2)
 - # BookList
   - ### 이것이 취업을 위한 코딩테스트다 (나동빈)
     - #### 스터디 진행中 : [1월22일 ~ reading](https://github.com/dding94/ps)
