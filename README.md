@@ -17,7 +17,7 @@
 - ### 7. 실전! 스프링 부트와 JPA 활용 1 - 웹 애플리케이션 개발 (인프런) 복습!!
   - #### 🌱 [2월25일 ~ 3월8일 복습완료](https://github.com/dding94/Spring-log/tree/main/6.Spring_Boot%26JPA_review)
 - ### 8. 초보를 위한 도커 안내서
-  - #### 🌱 [2월25일 ~ Learning](https://github.com/dding94/Docker-log)
+  - #### 🌱 [2월25일 ~ 3월24일 수강완료](https://github.com/dding94/Docker-log)
 - ### 9. 실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화
   - #### 🌱 [3월10일 ~ Learning](https://github.com/dding94/Spring-log/tree/main/7.Spring_Boot%26JP2)
 - # BookList
