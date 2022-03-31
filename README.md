@@ -22,6 +22,10 @@
   - #### 🌱 [3월10일 ~ Learning](https://github.com/dding94/Spring-log/tree/main/7.Spring_Boot%26JP2)
 - # BookList
   - ### 이것이 취업을 위한 코딩테스트다 (나동빈)
-    - #### 스터디 진행中 : [1월22일 ~ reading](https://github.com/dding94/ps)
+    - #### 스터디 진행中 : [1월22일 ~ 3월 1회독 완료](https://github.com/dding94/ps)
   - ### JAVA의 정석 (남궁 성)
     - #### 블로그에 정리中 : [2월4일 ~ reading](https://dding9code.tistory.com/)
+  - ### 그림으로 배우는 NetWork 원리 (Gene)
+    - [3월31일 ~ reading]
+  - ### 실습과 그림으로 배우는 리눅스 구조
+    - [4월1일 ~ reading]
