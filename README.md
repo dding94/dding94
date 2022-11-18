@@ -2,7 +2,7 @@
 
 ![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdding94&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)
 
-[![dding94 Github Stats](https://github-readme-stats.vercel.app/api?username=dding94&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![dding94 Github Stats](https://github-readme-stats.vercel.app/api?username=dding94&theme=dark&show_icons=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=audrn6689)](https://solved.ac/audrn6689/)
 
