@@ -1,56 +1,49 @@
-# 2022년도 Learning List
-- ### 0. 1일 1 알고리즘 Solved 실천중 (백준, 프로그래머스, 스터디)
-   - #### 🌱 백준 : [12월1일 ~ Learning](https://www.acmicpc.net/user/audrn6689)
-   - #### 🌱 스터디 : [1월22일 ~ 6월30일](https://github.com/daily-coding-ps/ps)
-- ### 1. 스프링 핵심 원리 - 기본편 (인프런)
-   - #### 🌱 [12월30일 ~ 1월13일 수강완료](https://github.com/dding94/Spring-log/tree/main/2.Spring_Basic)
-- ### 2. 모든 개발자를 위한 HTTP 웹 기본 지식 (인프런)
-   - #### 🌱 [1월13일 ~ 1월17일 수강완료](https://github.com/dding94/Spring-log/tree/main/HTTP_WEB_Basic)
-- ### 3. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 (인프런)
-   - #### 🌱 [1월17일 ~ 2월3일 수강완료](https://github.com/dding94/Spring-log/tree/main/3.Spring_MVC1)
-- ### 4. 실전! 스프링 부트와 JPA 활용 1 - 웹 애플리케이션 개발 (인프런)
-  - #### 🌱 [2월3일 ~ 2월9일 수강완료](https://github.com/dding94/Spring-log/tree/main/4.Spring_Boot&JPA1)
-- ### 5. 자바 ORM 표준 JPA 프로그래밍 - 기본편 (인프런)
-  - #### 🌱 [2월9일 ~ 2월23일 수강완료](https://github.com/dding94/Spring-log/tree/main/5.Java_ORM_JPA)
-- ### 6. 갖고노는 MySQL 데이터베이스 by 얄코
-  - #### 🌱 [2월24일 ~ 3월21일 수강완료]
-- ### 7. 실전! 스프링 부트와 JPA 활용 1 - 웹 애플리케이션 개발 (인프런) 복습!!
-  - #### 🌱 [2월25일 ~ 3월8일 복습완료](https://github.com/dding94/Spring-log/tree/main/6.Spring_Boot%26JPA_review)
-- ### 8. 초보를 위한 도커 안내서
-  - #### 🌱 [2월25일 ~ 3월24일 수강완료](https://github.com/dding94/Docker-log)
-- ### 9. 실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화
-  - #### 🌱 [3월10일 ~ 4월21일 수강완료](https://github.com/dding94/Spring-log/tree/main/7.Spring_Boot%26JP2)
-- ### 10. CS 완전정복 인강
-  - #### 🌱 [5월 ~ 7월] 
-- ### 11. F-lab 진행
-  - #### 🌱 [5월7일 ~ ]
-- ### 12. 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 (인프런) 스터디 진행 + 복습!!
-  - #### 🌱 [6월3일 ~ 6월28일](https://valley-road-6eb.notion.site/MVC1-c5f14e8d586c4e38bf4d0986f91b888f)
-- ### 13. 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 (인프런) 스터디 진행
-  - #### 🌱 [6월28일 ~ 7월29]
-- ### 14. 스프링 DB 1편 - 데이터 접근 핵심 원리 (인프런) 스터디 진행
-  - #### 🌱 [7월29일 ~ ]
-- ### 15. 스프링 핵심 원리 - 고급편 (인프런)
-  - #### 🌱 [7월29일 ~ ]
-- # BookList
-  - ### 이것이 취업을 위한 코딩테스트다 (나동빈)
-    - #### 스터디 진행中 : [1월22일 ~ 3월 1회독 완료](https://github.com/dding94/ps)
-  - ### JAVA의 정석 (남궁 성)
-    - #### 블로그에 정리中 : [2월4일 ~ reading](https://dding9code.tistory.com/)
-  - ### 그림으로 배우는 NetWork 원리 (Gene)
-    - [3월31일 ~ 4월15일] 1회독
-  - ### 모던 자바 인 액션
-    - [4월13일 ~ 5월 중순 하차] Study
-  - ### 토비의 스프링 3.1 vo1
-    - [5월13일 ~ reading] with F-lab
-  - ### 이펙티브 자바
-    - [6월24일 ~ reading]
-  - ### 객체지향의 사실과 오해
-    - [7월1일 ~ 8월 4일] Study
-  - ### 스프링 입문을 위한 자바 객체지향의 원리와 이해
-    - [7월 19일 ~ 7월 26일]
-  - ### realMySQL8.0 1권
-    - [8월8일 ~ reading]
-  - ### 도메인 주도 개발 시작하기
-  - ### DDD Quick Start
-  - ### 면접을 위한 CS 전공지식 노트
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6b32af&height=200&text=Back-End%20Developer&fontSize=60)
+
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dding94&show_icons=true&theme=midnight-purple&locale=kr)](https://github.com/dding94/TIL)
+ -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdding94&count_bg=%2372DADB&title_bg=%23C79393&icon=spring.svg&icon_color=%23877575&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=dding94&show_icons=true&theme=midnight-purple&locale=kr" alt="Anurag's GitHub stats"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dding94&theme=midnight-purple&layout=compact&locale=kr" alt="Top Langs"/>
+</a>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=audrn6689)](https://solved.ac/audrn6689/)
+ -->
+---
+
+## 💁‍♂️ About Me
+안녕하세요! 프로그래머 정명구 입니다.
+
+### 💼 Experience
+
+- **Mcscience** - Software Engineer [2019-01 - 2021-06]
+
+### 🤝 Contact & Channel
+
+- 📧 **Email**: audrn6689@gmail.com
+- 📜 **Blog**: https://dding9code.tistory.com/manage
+
+## 🔨 Skills
+
+### ✨ Back End ✨
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
+
+### 🛠 Tools
+
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
+
+<!--END_SECTION:waka-->
