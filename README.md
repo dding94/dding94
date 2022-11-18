@@ -1,24 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6b32af&height=150&text=Back-End%20Developer&fontSize=30)
 
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dding94&show_icons=true&theme=midnight-purple&locale=kr)](https://github.com/dding94/TIL)
- -->
+![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdding94&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdding94&count_bg=%2372DADB&title_bg=%23C79393&icon=spring.svg&icon_color=%23877575&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=dding94&show_icons=true&theme=midnight-purple&locale=kr" alt="Anurag's GitHub stats"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dding94&theme=midnight-purple&layout=compact&locale=kr" alt="Top Langs"/>
-</a>
+[![dding94 Github Stats](https://github-readme-stats.vercel.app/api?username=dding94&hide_border=false&hide=contribs&count_private=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=audrn6689)](https://solved.ac/audrn6689/)
 
 ---
 
-## 💁‍♂️ About Me
+## About Me
 안녕하세요! 프로그래머 정명구 입니다.
 
 ### 💼 Experience
@@ -30,9 +20,8 @@
 - 📧 **Email**: audrn6689@gmail.com
 - 📜 **Blog**: https://dding9code.tistory.com/manage
 
-## 🔨 Skills
 
-### ✨ Back End ✨
+### 🔨 Skills
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
