@@ -13,7 +13,7 @@
 
 ### 💼 Experience
 
-- **Mcscience** - Software Engineer [2019-01 - 2021-06]
+- **Mcscience** [2019-01 - 2021-06]
 
 ### 🤝 Contact & Channel
 
