@@ -18,7 +18,7 @@
 
 
 ### 📜 Blog: https://dding9code.tistory.com/
-### 📚 Personal Project: [LiveCommerce Project](https://github.com/f-lab-edu/LiveCommerce)
+### 📚 TEAM Project: [LiveCommerce Project](https://github.com/f-lab-edu/LiveCommerce)
 
 
 ### 🔨 Skills
