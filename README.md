@@ -1,24 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6b32af&height=150&text=Back-End%20Developer&fontSize=30)
 
 ![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdding94&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)
-
-![dding94 Github Stats](https://github-readme-stats.vercel.app/api?username=dding94&theme=midnight-purple&show_icons=true)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=audrn6689)](https://solved.ac/audrn6689/)
-
 ---
 
 ## About Me
-안녕하세요! 프로그래머 정명구 입니다.
+안녕하세요! 동료와의 함께 성장하기를 추구하는 개발자 입니다.   
+[지식을 적극적으로 공유하고, 어려운 문제를 함께 고민하며 풀어나가는 것을 좋아합니다.](https://dding9code.tistory.com/130)   
+끈기와 꾸준함이 성장의 동력이라고 생각하며 이를 실천하려고 노력합니다.
 
 ### 💼 Experience
 
 - **Mcscience** [2019-01 - 2021-06]
+- **F-lab Mentee** [2022-05 - 2023-02]
 
-### 🤝 Contact & Channel
+### 🤝 Contact
 
 - 📧 **Email**: audrn6689@gmail.com
-- 📜 **Blog**: https://dding9code.tistory.com/manage
+
+
+### 📜 Blog: https://dding9code.tistory.com/
+### 📚 Personal Project: [LiveCommerce Project](https://github.com/f-lab-edu/LiveCommerce)
 
 
 ### 🔨 Skills
@@ -31,7 +32,7 @@
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
+![Redis](https://camo.githubusercontent.com/f93838dd6431bea23c55287cfbd0587dd6b196e55c0b02817000cb3eab315a17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656469732d2532334443333832442e7376673f267374796c653d666c61742d737175617265266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465)
 
 ### 🛠 Tools
 
