@@ -9,18 +9,18 @@
 
 특별한 지시나 사수 없이도 회사 내에서 다양한 문제를 적극적으로 발견하고 이를 해결함으로써 지속적으로 성장하고 있습니다. 이런 과정에서 팀과 회사에 큰 기여를 하고 있으며, 이를 통해 프로젝트가 더욱 효율적이고 안정적으로 진행될 수 있도록 노력합니다.
 
-## 💼 Experience
+### 💼 Experience
 
 - **Mcscience** [2019-01 - 2021-06]
 - **F-lab Mentee** [2022-05 - 2023-02]
 - **ENDAND KOREAD** [2023-04 ~ 재직 중]
 
-## 🤝 Contact
+### 🤝 Contact
 
 - 📧 **Email**: audrn6689@gmail.com
 
 
-## 📜 Blog: https://dding9code.tistory.com/
-## 📚 Team Project: [LiveCommerce Project](https://github.com/dding94/LiveCommerce)
+### 📜 Blog: https://dding9code.tistory.com/
+### 📚 Team Project: [LiveCommerce Project](https://github.com/dding94/LiveCommerce)
 
 <!--END_SECTION:waka-->
