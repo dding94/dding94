@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6b32af&height=150&text=Back-End%20Developer&fontSize=30)
 
-![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdding94&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)
-
 ## About Me
 안녕하세요. 백엔드 서버 개발자로, 함께 성장하고 지식을 공유하는 것을 중요하게 생각합니다.
 
