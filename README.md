@@ -12,15 +12,11 @@
 - **Mcscience** [2019-01 - 2021-06]
 - **F-lab Mentee** [2022-05 - 2023-02]
 - **ENDAND KOREA** [2023-04 ~ 2023-11]
-- **VROONG** [2023-12 ~ 2024-06]
-- **HY KNOWK** [2024-06 ~ 재직중]
+- **VROONG + HY KNOWK** [2023-12 ~ 2025-12]
+- **아정당** [2026-03 ~ ]
 
 ### 🤝 Contact
 
 - 📧 **Email**: audrn6689@gmail.com
-
-
-### 📜 Blog: https://dding9code.tistory.com/
-### 📚 Team Project: [LiveCommerce Project](https://github.com/dding94/LiveCommerce)
 
 <!--END_SECTION:waka-->
